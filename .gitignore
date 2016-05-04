@@ -1,0 +1,12 @@
+*.pyc
+*.pyo
+env
+env*
+dist
+build
+*.egg
+*.egg-info
+_mailinglist
+.cache/
+*.swp
+__pycache__
